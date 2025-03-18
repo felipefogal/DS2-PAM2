@@ -9,6 +9,7 @@ import Profile from './src/pages/Profile/index';
 const Tab = createBottomTabNavigator();
 
 // Teste de GIT
+// Novo Teste de GIT
 export default function App() {
   return (
     <NavigationContainer>
